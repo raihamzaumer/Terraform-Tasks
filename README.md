@@ -1,4 +1,3 @@
-Here’s a **short and concise GitHub version**:
 
 ---
 
